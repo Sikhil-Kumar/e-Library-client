@@ -18,8 +18,8 @@ body {
     font-size: 80px;
     line-height: 100px;
     background: -webkit-linear-gradient(#f8ff70, #ffffff);
-    /* -webkit-background-clip: text; */
-    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:#f8ff70;
 }
 
 .login-title {

@@ -167,7 +167,9 @@ const Login = (props) => {
                 <div className="col-lg-3 col-md-2"></div>
                 <div className="col-lg-6 col-md-8 login-box">
                     <div className="col-lg-12 login-key">
-                        <i className="fa fa-key" aria-hidden="true"></i>
+                    {/* <i class="fa-solid fa-key"></i> */}
+                        {/* <i className="fa fa-key" aria-hidden="true"></i> */}
+                        <i class="fa-solid fa-key fa-shake"></i>
                     </div>
                     <div className="col-lg-12 login-title">
                         Login
