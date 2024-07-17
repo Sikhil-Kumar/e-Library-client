@@ -60,7 +60,7 @@
 // export default ProductState
 
 
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import ProductContext from './productContext';
 
 const ProductState = (props) => {
